@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<meta>
+    <filename>docs/18M5全库理论检查需求20180301.xlsx</filename>
+    <sheet>new_rules</sheet>
+    <table name="HAD_VALIDATION_RULE"></table>
+    <query type="INSERT"></query>
+    <column excel="规则库名称" table="RULE_ID" ></column>
+    <column excel="表名" table="CHECK_TABLE"></column>
+    <column excel="字段名" table="CHECK_FIELD"></column>
+    <column excel="字段描述" table="CHECK_FIELD_NAME"></column>
+    <column excel="字段值域描述" table="FIELD_VAL"></column>
+    <column excel="主键" table="PK_COL_NAME"></column>
+    <column excel="关联表" table="CONN_TABLE"></column>
+    <column excel="关联字段名（外键）" table="FK_COL_NAME"></column>
+    <column excel="检查类型" table="CHECK_TYPE"></column>
+    <column excel="检查原则--研发调整" table="RULE_DESCRIPTION"></column>
+    <column excel="规则包类型" table="LOG_SOURCE"></column>
+    <column excel="实现阶段" table="ORA_IMPL_STAGE"></column>
+    <column excel="适用范围" table="CHECK_FIELD_DESCRIPTION"></column>
+    <column excel="LOG等级" table="CHECK_LEVEL"></column>
+    <column excel="LOG描述" table="CHECK_MSG"></column>
+    <column excel="开发人" table="ORA_MANTAINER"></column>
+    <filter excel="规则库名称" table="RULE_ID" ></filter>
+    <header index="0"></header>
+</meta>

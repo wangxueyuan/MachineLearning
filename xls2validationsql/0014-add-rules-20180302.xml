@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<meta>
+    <filename>【18M6_B】全库理论检查需求.xlsx</filename>
+    <sheet>18M6_sheet</sheet>
+    <table name="HAD_VALIDATION_RULE"></table>
+    <query type="SELECT"></query>
+    <column excel="需求状态" table="RULE_ID" ></column>
+    <column excel="规则号码" table="CHECK_TABLE"></column>
+    <filter excel="检查表" table="CHECK_FIELD"></filter>
+    <filter excel="检查字段" table="CHECK_FIELD_NAME"></filter>
+    <filter excel="检查表主键" table="FIELD_VAL"></filter>
+    <filter excel="参考表1" table="PK_COL_NAME"></filter>
+    <filter excel="参考表1字段" table="CONN_TABLE"></filter>
+    <column excel="参考表2" table="FK_COL_NAME"></column>
+    <column excel="参考表2字段" table="CHECK_TYPE"></column>
+    <column excel="检查类型" table="RULE_DESCRIPTION"></column>
+    <column excel="LOG等级" table="LOG_SOURCE"></column>
+    <column excel="LOG描述" table="ORA_IMPL_STAGE"></column>
+    <filter excel="生产需求" table="CHECK_FIELD_DESCRIPTION"></filter>
+    <column excel="开发需求" table="CHECK_LEVEL"></column>
+    <column excel="需求批次" table="CHECK_MSG"></column>
+    <column excel="开发人" table="ORA_MANTAINER"></column>
+    <column excel="LOG来源" table="RULE_ID" ></column>
+    <header index="0"></header>
+</meta>
