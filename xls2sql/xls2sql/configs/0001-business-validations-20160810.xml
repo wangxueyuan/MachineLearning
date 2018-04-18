@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<meta>
+    <filename>docs/理论检查发布状态_20160810-整理汇总20160824(评审完成)-汇总bug后.xlsx</filename>
+    <sheet>业务检查项</sheet>
+    <table name="HAD_VALIDATION_RULE"></table>
+    <query type="UPDATE"></query>
+    <column excel="单任务开发动作" table="SL_TEST_MEMO"></column>
+    <column excel="oracle开发动作" table="ORA_TEST_MEMO"></column>
+    <column excel="oracle开发人" table="ORA_MANTAINER"></column>
+    <filter excel="检查原则号" table="RULE_ID" ></filter>
+    <header index="0"></header>
+</meta>
